@@ -7,4 +7,7 @@ def run_home_app() :
 
     st.text("AWS에 배포까지 된 앱입니다.")
 
+    st.info("은진 주인님...!!")
+
+    st.text("은진 주인님 차")
     st.image("https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,h_699,q_auto:eco,w_1242/v1/vehicles/used/bmw/3-series/2023/3487-bmd16044-1")
